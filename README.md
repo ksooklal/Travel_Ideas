@@ -9,4 +9,4 @@ October 2017
 
 November 2017
 -New York (1st weekend)
--
+-Michigan/Wisconsin (3rd weekend)
