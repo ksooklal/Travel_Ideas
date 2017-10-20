@@ -9,4 +9,16 @@ October 2017
 
 November 2017
 -New York (1st weekend)
+-Nashville (1st weekend)
 -Michigan/Wisconsin (3rd weekend)
+
+December 2017
+-
+
+January 2017
+-Colorado with Tom
+
+February 2017
+-
+
+March 2017
