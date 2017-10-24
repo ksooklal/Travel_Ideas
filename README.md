@@ -17,7 +17,7 @@ January 2017 <br />
 -Memphis (1st weekend)<br />
 -Colorado with Tom<br />
 <br />
-February 2017
+February 2017 <br />
 -
 <br />
 March 2017<br />
@@ -25,3 +25,10 @@ March 2017<br />
 <br />
 April 2017<br />
 -Colorado with Coddington (3rd week)<br />
+May 2017<br />
+-<br />
+June 2017 <br />
+July 2017 <br />
+August 2017 <br />
+September 2017 <br />
+-Colorado with Jackie (5th weekend)
