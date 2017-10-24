@@ -1,5 +1,4 @@
 # Travel_Ideas
-<br />
 Start adding travel ideas here.<br />
 <br />
 October 2017<br />
@@ -27,8 +26,12 @@ April 2017<br />
 -Colorado with Coddington (3rd week)<br />
 May 2017<br />
 -<br />
+<br />
 June 2017 <br />
+<br />
 July 2017 <br />
+<br />
 August 2017 <br />
+<br />
 September 2017 <br />
 -Colorado with Jackie (5th weekend)
