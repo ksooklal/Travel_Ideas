@@ -3,20 +3,20 @@
 Start adding travel ideas here.
 
 October 2017
--Colorado (1st weekend)
--Trinidad & Tobago (mid-month)
--Colorado (4th weekend)
-
-November 2017
--New York (1st weekend)
--Nashville (1st weekend)
--Michigan/Wisconsin (3rd weekend)
-
-December 2017
--Pittsburgh (2nd weekend)
-
-January 2017
+-Colorado (1st weekend) <br />
+-Trinidad & Tobago (mid-month) <br />
+ <br />
+November 2017 <br />
+-Nashville (1st weekend) <br />
+-Michigan/Wisconsin (3rd weekend)  <br />
+ <br />
+December 2017 <br />
+-Maine (31st of December) <br />
+ <br />
+January 2017 <br />
+-Memphis (1st weekend)
 -Colorado with Tom
+
 
 February 2017
 -
