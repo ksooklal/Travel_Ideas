@@ -22,8 +22,6 @@ January 2017<br />
 -Memphis (1st weekend)<br />
 -Colorado with Tom<br />
 <br />
-
-
 February 2017 <br />
 -
 <br />
