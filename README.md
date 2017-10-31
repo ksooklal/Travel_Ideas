@@ -27,6 +27,7 @@
   <tr><td></td><td></td><td>Washington Nationals @ Los Angeles Dodgers with Jackie</td><td>20th - 22nd</td></tr>
   <tr><td></td><td></td><td>Washington Nationals @ San Francisco Giants with Jackie</td><td>23rd - 25th</td></tr>
   <tr><td colspan = '4' align='center'><strong>May 2018</strong></td></tr>
+  <tr><td></td><td></td><td>Washington Nationals @ San Diego Padres</td><td>7th - 9th</td></tr>
   <tr><td colspan = '4'></td></tr>
   <tr><td colspan = '4' align='center'><strong>June 2018</strong></td></tr>
   <tr><td colspan = '4'></td></tr>
