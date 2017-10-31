@@ -21,7 +21,7 @@
   <tr><td colspan = '4' align='center'><strong>March 2018</strong></td></tr>
   <tr><td></td><td></td><td>Washington Wizards @ New Orleans<br/>Washington Wizards @ Miami Heat</td><td>8th - 11th</td></tr>
   <tr><td colspan = '4' align='center'><strong>April 2018</strong></td></tr>
-  <tr><td></td><td><td></td>Orlando</td><td>9th - 11th</td></tr>
+  <tr><td></td><td></td><td>Orlando</td><td>9th - 11th</td></tr>
   <tr><td></td><td></td><td>Colorado with Coddington</td><td>13th - 20th</td></tr>
   <tr><td></td><td></td><td>Washington Nationals @ New York Mets with Jackie</td><td>16th - 18th</td></tr>
   <tr><td></td><td></td><td>Washington Nationals @ Los Angeles Dodgers with Jackie</td><td>20th - 22nd</td></tr>
