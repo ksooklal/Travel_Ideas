@@ -1,6 +1,6 @@
 # Travel Ideas
 
-2018 Nationals Games Trips are based on the preliminary 2018 Nationals Schedule released by the MLB already <a href = 'http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf'>here</>: http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf</a>
+2018 Nationals Games Trips are based on the preliminary 2018 Nationals Schedule released by the MLB already <a href = 'http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf'>here</a>: http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf
 <table>
   <tr><thead>
      <th>Tickets?</th><th align = 'center'>Destination</th><th>Dates</th>
@@ -35,12 +35,10 @@
   <tr><td colspan = '3' align='center'><strong>August 2018</strong></td></tr>
   <tr><td></td><td>Destination</td><td>Dates</td></tr>
   <tr><td colspan = '3' align='center'><strong>September 2018</strong></td></tr>
-  <tr><td></td><td>Washington Nationals @ Atlanta Braves with Jackie</td><td>13th - 20th</td></tr>
-  <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td></td><td>Washington Nationals @ Atlanta Braves with Jackie</td><td>14th - 16th</td></tr>
+  <tr><td></td><td>Washington Nationals @ Miami Marlins with Jackie</td><td>17th - 18th</td></tr>
+  <tr><td></td><td>Washington Nationals @ Colorado Rockies with Jackie</td><td>28th - 30th</td></tr>
   <tr><td colspan = '3' align='center'><strong>October 2018</strong></td></tr>
-  <tr><td></td><td>Destination</td><td>Dates</td></tr>
   <tr><td colspan = '3' align='center'><strong>November 2018</strong></td></tr>
-  <tr><td></td><td>Destination</td><td>Dates</td></tr>
   <tr><td colspan = '3' align='center'><strong>December 2018</strong></td></tr>
-  <tr><td></td><td>Destination</td><td>Dates</td></tr>
 </table>
