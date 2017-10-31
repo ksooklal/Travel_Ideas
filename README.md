@@ -1,5 +1,9 @@
 # Travel Ideas
 
+```diff
+   // code for coloring
+```
+
 2018 Nationals Games Trips are based on the preliminary 2018 Nationals Schedule released by the MLB already <a href = 'http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf'>here</a>: http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf
 <table>
   <tr><thead>
