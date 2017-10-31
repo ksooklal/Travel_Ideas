@@ -11,9 +11,9 @@ Start adding travel ideas here.<br /> <br />October 2017<br /> -Colorado (1st we
   <tr><td>&#10004;</td><td>Trinidad</td><td>10th - 12th</td></tr>
   <tr><td colspan = '3'>November 2017</td></tr>
   <tr><td>&#10004;</td><td>Chicago/Midwest</td><td>17th - 21th</td></tr>
-  <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td></td><td>New Jersey for Aunt Becky</td><td>23rd</td></tr>
   <tr><td colspan = '3'>December 2017</td></tr>
-  <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td></td><td>Maine</td><td>31st</td></tr>
   <tr><td>T</td><td>Destination</td><td>Dates</td></tr>
   <tr><td colspan = '3'>January 2018</td></tr>
   <tr><td></td><td>Destination</td><td>Dates</td></tr>
