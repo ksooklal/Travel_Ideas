@@ -15,7 +15,7 @@
   <tr><td></td><td></td><td>New Years' Eve in Maine</td><td>31st</td></tr>
   <tr><td colspan = '4' align='center'><strong>January 2018</strong></td></tr>
   <tr><td></td><td></td><td>Washington Wizards @ Memphis Grizzlies</td><td>4th - 5th</td></tr>
-  <tr><td></td><td></td><td>Colorado with Tom</td><td></td></tr>
+  <tr><td></td><td></td><td>Colorado with Keeley</td><td></td></tr>
   <tr><td colspan = '4' align='center'><strong>February 2018</strong></td></tr>
   <tr><td></td><td></td><td>Washington Wizards @ Chicago Bulls</td><td>9th - 11th</td></tr>
   <tr><td colspan = '4' align='center'><strong>March 2018</strong></td></tr>
