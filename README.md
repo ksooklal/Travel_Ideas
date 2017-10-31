@@ -6,7 +6,7 @@ Start adding travel ideas here.<br /> <br />October 2017<br /> -Colorado (1st we
 
 <table>
   <tr><td>Tickets?</td><td>Destination</td><td>Dates</td></tr>
-  <tr><td colspan = '3'>October 2017</td></tr>
+  <tr><td colspan = '3' align='center'>October 2017</td></tr>
   <tr><td>&#10004;</td><td>Colorado</td><td>1st Weekend</td></tr>
   <tr><td>&#10004;</td><td>Trinidad</td><td>10th - 12th</td></tr>
   <tr><td colspan = '3'>November 2017</td></tr>
@@ -14,14 +14,28 @@ Start adding travel ideas here.<br /> <br />October 2017<br /> -Colorado (1st we
   <tr><td></td><td>New Jersey for Aunt Becky</td><td>23rd</td></tr>
   <tr><td colspan = '3'>December 2017</td></tr>
   <tr><td></td><td>Maine</td><td>31st</td></tr>
-  <tr><td>T</td><td>Destination</td><td>Dates</td></tr>
   <tr><td colspan = '3'>January 2018</td></tr>
+  <tr><td></td><td>Memphis</td><td>5th</td></tr>
+  <tr><td colspan = '3'>February 2018</td></tr>
   <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td colspan = '3'>March 2018</td></tr>
   <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td colspan = '3'>April 2018</td></tr>
   <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td colspan = '3'>May 2018</td></tr>
   <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td colspan = '3'>June 2018</td></tr>
   <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td colspan = '3'>July 2018</td></tr>
   <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td colspan = '3'>August 2018</td></tr>
   <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td colspan = '3'>September 2018</td></tr>
+  <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td colspan = '3'>October 2018</td></tr>
+  <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td colspan = '3'>November 2018</td></tr>
+  <tr><td></td><td>Destination</td><td>Dates</td></tr>
+  <tr><td colspan = '3'>December 2018</td></tr>
   <tr><td></td><td>Destination</td><td>Dates</td></tr>
 </table>
