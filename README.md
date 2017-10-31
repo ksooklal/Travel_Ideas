@@ -9,7 +9,7 @@
   <tr><td>&#10004;</td><td></td><td>Colorado</td><td>1st Weekend</td></tr>
   <tr><td>&#10004;</td><td>&#10004;</td><td>USA Soccer @ Trinidad Soccer</td><td>10th - 12th</td></tr>
   <tr><td colspan = '4' align='center'><strong>November 2017</strong></td></tr>
-  <tr><td>&#10004;</td><td></td><td>Maryland @ Michigan State<br/>Baltimore Ravens @ Green Bay Packers<br/>Washington Wizards @ Milwaukee Bucks</td><td>17th - 21th</td></tr>
+  <tr><td>&#10004;</td><td></td><td>Maryland @ Michigan State<br/>Baltimore Ravens @ Green Bay Packers<br/>Washington Wizards @ Milwaukee Bucks</td><td>17th - 21st</td></tr>
   <tr><td></td><td></td><td>New Jersey for Aunt Becky</td><td>23rd</td></tr>
   <tr><td colspan = '4' align='center'><strong>December 2017</strong></td></tr>
   <tr><td></td><td></td><td>New Years' Eve in Maine</td><td>31st</td></tr>
