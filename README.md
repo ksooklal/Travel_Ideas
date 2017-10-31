@@ -1,9 +1,5 @@
 # Travel Ideas
 
-```diff
-code for coloring
-```
-
 2018 Nationals Games Trips are based on the preliminary 2018 Nationals Schedule released by the MLB already <a href = 'http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf'>here</a>: http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf
 <table>
   <tr><thead>
@@ -27,18 +23,9 @@ code for coloring
   <tr><td colspan = '4' align='center'><strong>April 2018</strong></td></tr>
   <tr><td></td><td></td><td>Washington Wizards @ Orlando Magic</td><td>9th - 11th</td></tr>
   <tr><td></td><td></td><td>Colorado with Coddington</td><td>13th - 20th</td></tr>
-  
-  <tr>
-  ```diff
-    -<td></td><td></td><td>Washington Nationals @ New York Mets with Jackie</td><td>16th - 18th</td>
-  ```</tr>
-  
-  <tr>
-  ```diff
-  -<td></td><td></td><td>Washington Nationals @ Los Angeles Dodgers with Jackie</td><td>20th - 22nd</td>
-  ```</tr>
+  <tr><td></td><td></td><td>Washington Nationals @ New York Mets with Jackie</td><td>16th - 18th</td></tr>
+  <tr><td></td><td></td><td>Washington Nationals @ Los Angeles Dodgers with Jackie</td><td>20th - 22nd</td></tr>
   <tr><td></td><td></td><td>Washington Nationals @ San Francisco Giants with Jackie</td><td>23rd - 25th</td></tr>
- 
   <tr><td colspan = '4' align='center'><strong>May 2018</strong></td></tr>
   <tr><td colspan = '4'></td></tr>
   <tr><td colspan = '4' align='center'><strong>June 2018</strong></td></tr>
@@ -46,15 +33,11 @@ code for coloring
   <tr><td colspan = '4' align='center'><strong>July 2018</strong></td></tr>
   <tr><td colspan = '4'></td></tr>
   <tr><td colspan = '4' align='center'><strong>August 2018</strong></td></tr>
-  ```diff
-  -<tr><td></td><td></td><td>Washington Nationals @ Philadelphia Phillies with Jackie</td><td>27th - 29th</td></tr>
-  ```
+  <tr><td></td><td></td><td>Washington Nationals @ Philadelphia Phillies with Jackie</td><td>27th - 29th</td></tr>
   <tr><td colspan = '4' align='center'><strong>September 2018</strong></td></tr>
-  ```diff
-  -<tr><td></td><td></td><td>Washington Nationals @ Atlanta Braves with Jackie</td><td>14th - 16th</td></tr>
-  -<tr><td></td><td></td><td>Washington Nationals @ Miami Marlins with Jackie</td><td>17th - 18th</td></tr>
-  -<tr><td></td><td></td><td>Washington Nationals @ Colorado Rockies with Jackie</td><td>28th - 30th</td></tr>
-  ```
+  <tr><td></td><td></td><td>Washington Nationals @ Atlanta Braves with Jackie</td><td>14th - 16th</td></tr>
+  <tr><td></td><td></td><td>Washington Nationals @ Miami Marlins with Jackie</td><td>17th - 18th</td></tr>
+  <tr><td></td><td></td><td>Washington Nationals @ Colorado Rockies with Jackie</td><td>28th - 30th</td></tr>
   <tr><td colspan = '4' align='center'><strong>October 2018</strong></td></tr>
   <tr><td colspan = '4' align='center'><strong>November 2018</strong></td></tr>
   <tr><td colspan = '4' align='center'><strong>December 2018</strong></td></tr>
