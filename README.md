@@ -3,7 +3,7 @@
 2018 Nationals Games Trips are based on the preliminary 2018 Nationals Schedule released by the MLB already <a href = 'http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf'>here</a>: http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf
 <table>
   <tr><thead>
-    <th>Travel Booked?</th><th>Tickets Purchased?</th><th align = 'center'>Destination</th><th>Dates</th>
+    <th>Travel<br/>Booked?</th><th>Tickets<br/>Purchased?</th><th align = 'center'>Destination</th><th>Dates</th>
     </thead></tr>
   <tr><td colspan = '4' align='center'><strong>October 2017</strong></td></tr>
   <tr><td>&#10004;</td><td>&#10004;</td><td>Colorado</td><td>1st Weekend</td></tr>
