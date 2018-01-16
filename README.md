@@ -14,7 +14,7 @@
     <tr><td>&#10004;</td><td>&#10004;</td><td>Arizona with Coddington</td><td>24th - 29th</td></tr>
   <tr><td>&#10004;</td><td></td><td>New Years' Eve in Maine</td><td>31st</td></tr>
   <tr><td colspan = '4' align='center'><strong>January 2018</strong></td></tr>
-  <tr><td>&#10004;</td><td></td><td>Rochester, NY with Keeley</td><td>31st</td></tr>
+  <tr><td>&#10004;</td><td></td><td>Rochester, NY with Keeley</td><td>14th</td></tr>
   <tr><td colspan = '4' align='center'><strong>February 2018</strong></td></tr>
   <tr><td colspan = '4' align='center'><strong>March 2018</strong></td></tr>
   <tr><td colspan = '4' align='center'><strong>April 2018</strong></td></tr>
