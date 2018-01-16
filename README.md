@@ -23,7 +23,7 @@
   <tr><td colspan = '4' align='center'><strong>May 2018</strong></td></tr>
   <tr><td colspan = '4'></td></tr>
   <tr><td colspan = '4' align='center'><strong>June 2018</strong></td></tr>
-  <tr><td></td><td></td><td><a href = 'https://seatgeek.com/d-c-united-at-seattle-sounders-fc-tickets/mls/2018-06-09-7-pm/4205485' target = '_blank'>DC United @ Montreal Impact</a></td><td>9th</td></tr>
+  <tr><td></td><td></td><td><a href = 'https://seatgeek.com/d-c-united-at-seattle-sounders-fc-tickets/mls/2018-06-09-7-pm/4205485' target = '_blank'>DC United @ Seattle Seahawks</a></td><td>9th</td></tr>
   <tr><td colspan = '4'></td></tr>
   <tr><td colspan = '4' align='center'><strong>July 2018</strong></td></tr>
   <tr><td></td><td></td><td><a href = 'http://www.espn.com/mlb/team/schedule/_/name/pit/pittsburgh-pirates' target = '_blank'>Washington Nationals @ Pittsburgh Pirates</a></td><td>9th - 11th</td></tr>
