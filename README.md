@@ -14,6 +14,7 @@
     <tr><td>&#10004;</td><td>&#10004;</td><td>Arizona with Coddington</td><td>24th - 29th</td></tr>
   <tr><td>&#10004;</td><td></td><td>New Years' Eve in Maine</td><td>31st</td></tr>
   <tr><td colspan = '4' align='center'><strong>January 2018</strong></td></tr>
+  <tr><td>&#10004;</td><td></td><td>Rochester, NY with Keeley</td><td>31st</td></tr>
   <tr><td colspan = '4' align='center'><strong>February 2018</strong></td></tr>
   <tr><td colspan = '4' align='center'><strong>March 2018</strong></td></tr>
   <tr><td colspan = '4' align='center'><strong>April 2018</strong></td></tr>
@@ -27,7 +28,7 @@
   <tr><td colspan = '4' align='center'><strong>June 2018</strong></td></tr>
   <tr><td colspan = '4'></td></tr>
   <tr><td colspan = '4' align='center'><strong>July 2018</strong></td></tr>
-  <tr><td colspan = '4'></td></tr>
+     <tr><td></td><td></td><td><a href = 'http://www.espn.com/mlb/team/schedule/_/name/pit/pittsburgh-pirates'>Washington Nationals @ Pittsburgh Pirates</a></td><td>9th - 11th</td></tr>
   <tr><td colspan = '4' align='center'><strong>August 2018</strong></td></tr>
   <tr><td></td><td></td><td>Washington Nationals @ Philadelphia Phillies with Jackie</td><td>27th - 29th</td></tr>
   <tr><td colspan = '4' align='center'><strong>September 2018</strong></td></tr>
