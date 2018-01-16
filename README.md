@@ -1,6 +1,6 @@
 # Travel Ideas
 
-2018 Nationals Games Trips are based on the preliminary 2018 Nationals Schedule released by the MLB already <a href = 'http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf'>here</a>: http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf
+2018 Nationals Games Trips are based on the preliminary 2018 Nationals Schedule released by the MLB already <a href = 'http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf' target = '_blank'>here</a>: http://www.mlb.com/was/downloads/y2017/2018nationalspreliminaryschedule.pdf
 <table>
   <tr><thead>
     <th>Travel<br/>Booked?</th><th>Sports<br/>Tickets<br/>Purchased?</th><th align = 'center'>Destination</th><th>Dates</th>
@@ -28,9 +28,9 @@
   <tr><td colspan = '4' align='center'><strong>June 2018</strong></td></tr>
   <tr><td colspan = '4'></td></tr>
   <tr><td colspan = '4' align='center'><strong>July 2018</strong></td></tr>
-     <tr><td></td><td></td><td><a href = 'http://www.espn.com/mlb/team/schedule/_/name/pit/pittsburgh-pirates'>Washington Nationals @ Pittsburgh Pirates</a></td><td>9th - 11th</td></tr>
+     <tr><td></td><td></td><td><a href = 'http://www.espn.com/mlb/team/schedule/_/name/pit/pittsburgh-pirates' target = '_blank'>Washington Nationals @ Pittsburgh Pirates</a></td><td>9th - 11th</td></tr>
   <tr><td colspan = '4' align='center'><strong>August 2018</strong></td></tr>
-  <tr><td></td><td></td><td>Washington Nationals @ Philadelphia Phillies with Jackie</td><td>27th - 29th</td></tr>
+  <tr><td></td><td></td><td><a href = 'http://www.espn.com/mlb/team/schedule/_/name/phi/half/2' target = '_blank'>Washington Nationals @ Philadelphia Phillies with Jackie</a></td><td>27th - 29th</td></tr>
   <tr><td colspan = '4' align='center'><strong>September 2018</strong></td></tr>
   <tr><td></td><td></td><td>Washington Nationals @ Atlanta Braves with Jackie</td><td>14th - 16th</td></tr>
   <tr><td></td><td></td><td>Washington Nationals @ Miami Marlins with Jackie</td><td>17th - 18th</td></tr>
