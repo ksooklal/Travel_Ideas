@@ -21,6 +21,7 @@
   <tr><td></td><td></td><td><a href = 'https://seatgeek.com/wizards-at-bulls-tickets/4-1-2018-chicago-illinois-united-center/nba/3993891' target = '_blank'>Washington Wizards @ Chicago Bulls</a></td><td>1st</td></tr>
   <tr><td></td><td></td><td><a href = 'https://seatgeek.com/wizards-at-magic-tickets/4-11-2018-orlando-florida-amway-center/nba/3993598' target = '_blank'>Washington Wizards @ Orlando Magic</a></td><td>9th - 11th</td></tr>
   <tr><td colspan = '4' align='center'><strong>May 2018</strong></td></tr>
+  <tr><td>&#10004;</td><td></td><td>Kansas City, MO with Keeley</td><td>26th - 28th</td></tr>
   <tr><td colspan = '4'></td></tr>
   <tr><td colspan = '4' align='center'><strong>June 2018</strong></td></tr>
   <tr><td></td><td></td><td><a href = 'https://seatgeek.com/d-c-united-at-seattle-sounders-fc-tickets/mls/2018-06-09-7-pm/4205485' target = '_blank'>DC United @ Seattle Sounders</a></td><td>9th</td></tr>
